@@ -1,6 +1,6 @@
-public class Python extends Backend{
+public class Paython extends Backend{
    public String django(){
-       return "<<<";
+       return "<<<Django is a framework Payton>>>";
     }
 
     @Override

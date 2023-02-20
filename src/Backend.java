@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Backend {
+public class Backend {
+    @Override
+    public String toString() {
+        return null;
+    }
 }
